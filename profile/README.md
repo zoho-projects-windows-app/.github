@@ -19,8 +19,6 @@ A quick look at key parts in action:
 
 <img width="2000" height="1250" alt="zoho-projects-windows-app-main-dashboard-overview" src="https://github.com/user-attachments/assets/0d765aa0-c067-414d-ac27-ac07eaefaeeb" />
 
-(https://github.com/user-attachments/assets/ed6ce1da-7536-4d88-93d3-25be8b518d91)
-
 ---
 
 ## 🎯 Key Features
