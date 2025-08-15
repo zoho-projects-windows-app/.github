@@ -18,7 +18,8 @@ Run the `.exe` file to start the application.
 A quick look at key parts in action:
 
 <img width="2000" height="1250" alt="zoho-projects-windows-app-main-dashboard-overview" src="https://github.com/user-attachments/assets/0d765aa0-c067-414d-ac27-ac07eaefaeeb" />
-![zoho-projects-windows-app-gantt-chart-view](https://github.com/user-attachments/assets/9aba993f-5a01-46b2-9eab-960960e516dc)
+
+(https://github.com/user-attachments/assets/ed6ce1da-7536-4d88-93d3-25be8b518d91)
 
 ---
 
